@@ -10,10 +10,10 @@ with col1:
     st.image("logo.png", width=150)  
 
 with col2:
-    st.title("Nuestro Catálogo Deportivo")
+    st.title("Nuestro Catálogo")
 
 
-st.markdown("<p style='font-size:16px; color: gray;'>Calle 52 # 16-31 Barrio San Miguel</p>", unsafe_allow_html=True)
+st.markdown("<p style='font-size:16px; color: gray;'>Calle 54</p>", unsafe_allow_html=True)
 
 
 carpeta = "catalogo"
