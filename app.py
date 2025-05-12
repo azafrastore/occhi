@@ -1,7 +1,7 @@
 import streamlit as st
 import os
 
-st.set_page_config(page_title="Importivos León", layout="wide")
+st.set_page_config(page_title="Optica Occhi", layout="wide")
 
 
 col1, col2 = st.columns([1, 5]) 
